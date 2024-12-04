@@ -1,5 +1,5 @@
-# input_file = open('day1_dummyinput.txt')
-input_file = open('day1_input.txt')
+# input_file = open('day01_dummyinput.txt')
+input_file = open('day01_input.txt')
 
 input = input_file.read().split('\n')
 left_list = []
